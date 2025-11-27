@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell, BarChart, Bar, Legend } from 'recharts';
-import { Wallet, TrendingUp, Shield, BarChart3, Zap, Globe, X, ChevronRight, Check, Star, Users, Award, Target, Clock, Bell, Lock, Eye, Download, ArrowUpRight } from 'lucide-react';
+import { Wallet, TrendingUp, Shield, BarChart3, Zap, Globe, X, ChevronRight, Check, Star, Award, Target, Clock, Eye, ArrowUpRight } from 'lucide-react';
 import './nexyl-wallet.css';
 
 const NexylWallet = () => {
